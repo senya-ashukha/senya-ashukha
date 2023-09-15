@@ -1,4 +1,3 @@
-I am a Research Scientist at Isomorphic Labs where I work on AI-first drug design 🧬
+I am a Research Scientist at Isomorphic Labs (Alphabet company, led by Demis Hassabis)  where I work on AI-first drug design and digital biology.
 
-I received a PhD in computer science from National Research University Higher School of Economics, where I worked with Dmitry Vetrov. The results of my PhD contributed to sparsification, uncertainty estimation, ensembling, and fundamentals of Bayesian deep learning. I was a part of Samsung AI, Yandex Research, and University of Amsterdam (worked with Max Welling). During my undergrad and master's, I did ML internships in deep learning for music, recommendation systems, and user modeling.
-
+Before joining Isomorpic Labs, I was a PhD student at the Bayesian Methods Research Group and Reserch Scientist at Samsing AI, where I worked with Dmitry Vetrov. The results of my PhD contributed to sparsification, uncertainty estimation, ensembling, and fundamentals of Bayesian deep learning. I hold the UK Global Talant visa.
