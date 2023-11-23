@@ -1,4 +1,4 @@
-[Home page](https://ashukha.com/) / [Google Scholar](https://scholar.google.com/citations?user=IU-kuP8AAAAJ&hl=en) / [Twitter](https://twitter.com/senya_ashuha) / 📍 London (UK, Global Talant visa)
+[Home page](https://ashukha.com/) / [Google Scholar](https://scholar.google.com/citations?user=IU-kuP8AAAAJ&hl=en) / [Twitter](https://twitter.com/senya_ashuha) / 📍 London (UK, Global Talent visa)
 
 I am a Research Scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/) (Alphabet company, led by [Demis Hassabis](https://twitter.com/demishassabis))  where I work on AI-first drug design.
 
